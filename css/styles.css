@@ -1,15 +1,18 @@
-body{
-  background-image:url("../images/img1.jpg");
+body {
+  background-image: url("../images/img1.jpg");
 }
-.body1{
+
+.body1 {
   border: solid grey 2px;
   background-color: grey;
 }
-h1{
+
+h1 {
   color: purple;
   text-align: center;
 }
-.p1{
+
+.p1 {
   border: solid grey 10px;
   background-color: grey;
   font-size: 20px;
@@ -17,16 +20,28 @@ h1{
   text-align: center;
   color: black;
 }
-h2{
+
+h2 {
   text-align: center;
   color: purple;
 }
-.p2{
+
+.p2 {
   border: solid grey 10px;
   background-color: grey;
   font-size: 20px;
-  color:black;
-  text-align: center;}
-.body2{
+  color: black;
+  text-align: center;
+}
 
+.body2 {
+  background-color: grey;
+  text-align: center;
+}
+
+.p3 {
+  font-size: 30px;
+}
+input{
+  font-size: 20px;
 }
