@@ -2,22 +2,31 @@ body{
   background-image:url("../images/img1.jpg");
 }
 .body1{
+  border: solid grey 2px;
+  background-color: grey;
 }
 h1{
   color: purple;
   text-align: center;
 }
 .p1{
+  border: solid grey 10px;
+  background-color: grey;
   font-size: 20px;
   font-family: sans-serif;
   text-align: center;
-  color: red;
+  color: black;
 }
 h2{
   text-align: center;
   color: purple;
 }
 .p2{
+  border: solid grey 10px;
+  background-color: grey;
   font-size: 20px;
-  color: red;
+  color:black;
   text-align: center;}
+.body2{
+
+}
