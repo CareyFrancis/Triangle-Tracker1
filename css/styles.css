@@ -8,6 +8,8 @@ body {
 }
 
 h1 {
+  text-decoration: underline;
+  text-underline-position: auto;
   color: purple;
   text-align: center;
 }
@@ -22,6 +24,7 @@ h1 {
 }
 
 h2 {
+  text-decoration: underline;
   text-align: center;
   color: purple;
 }
