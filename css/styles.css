@@ -6,6 +6,9 @@ body {
   border: solid grey 2px;
   background-color: grey;
 }
+.p{
+  text-align: center;
+}
 
 h1 {
   text-decoration: underline;
