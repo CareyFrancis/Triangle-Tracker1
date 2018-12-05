@@ -1,6 +1,6 @@
-# {TRIANGLE TRACKER.}
+# TRIANGLE TRACKER.
 #### The Application To Help You Determine A Type Of Triangle!, 2nd December.
-#### By **{CAREY FRANCIS OJALL.}**
+#### By **CAREY FRANCIS OJALL.**
 ## Description
 The core function of the application is to help you in determining a type of triangle by means of using the measurements that are entered in the blank spaces. Once that is done ,all that is required is to hit the SUBMIT button and a prompt at the top of the page will appear. The prompt will show if the figures entered form either an equilateral triangle, an isosceles triangle, a scalene triangle or not a triangle at all. The application will strictly require you to input actual numbers and not words or any exclamation marks as the application will not work if numbers aren't input.
 
@@ -26,4 +26,4 @@ Support and contact details about any bugs or issues can be sent to me on carexf
 
 ### License
 *{MIT.}*
-Copyright (c) 2018 **{Carey Francis Ojall.}**
+Copyright (c) 2018 **Carey Francis Ojall.**
