@@ -9,7 +9,7 @@ The core function of the application is to help you in determining a type of tri
              `sudo apt-get update``
               ``sudo apt-get upgrade``
                ``sudo apt-get install git``
-             A prompt to input your password may come up.
+             -A prompt to input your password may come up.
 
 * Atom must also be installed. It can be downloaded from the internet from https://atom.io .Then proceed to installation.
 * A browser is also required for opening of the web page. Chrome is recommended.
