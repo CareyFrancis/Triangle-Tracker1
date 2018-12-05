@@ -1,4 +1,4 @@
-# {TRIANGLE TRACKER.}
+# TRIANGLE TRACKER.
 #### The Application To Help You Determine A Type Of Triangle!, 2nd December.
 #### By **{CAREY FRANCIS OJALL.}**
 ## Description
