@@ -21,6 +21,14 @@ At the time of publishing there were no known bugs.
 The application uses a combination of HTML, CSS and JavaScript to achieve its objectives.HTML was used for the content while CSS was used for styling of the web page. JavaScript was used to make the page interactive.
 Atom was the text editor used to put all the lines of code together for execution.
 
+## BDD
+|-----------------|:------------:|------------------------------:|
+ Type of Triangle   Input           Output
+ Equilateral      |   5,5,5      | This is an Equilateral Triangle
+ Isosceles        |   6,5,5      | This is an Isosceles Triangle
+ Scalene          |   5,6,8      | This is a Scalene Triangle
+ No Triangle      |   5,6,12     | This is NOT a Triangle
+ 
 ## Support and contact details
 Support and contact details about any bugs or issues can be sent to me on carexfm@gmail.com. Any meaningful contributions can be added to the project too.
 
