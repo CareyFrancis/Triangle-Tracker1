@@ -1,4 +1,4 @@
-/*
+
 var trySide = function() {
     var side1 = document.getElementById('input1').value;
     var side2 = document.getElementById('input2').value;
@@ -19,8 +19,9 @@ var trySide = function() {
     } else {
       alert("INVALID OPERATION!")
     }
-};*/
-function answer(){
+};
+
+/*function answer(){
 var checker=[];
 checker.push(parseFloat(prompt("Enter side A: ")));
  if (isNaN(checker[0])=== true){
@@ -31,7 +32,7 @@ checker.push(parseFloat(prompt("Enter side A: ")));
        alert("Please enter a number in the field");
      }else{
      checker.push(parseFloat(prompt("Enter side C: ")));
-       if (isNaN(checker[2])=== true){
+       if (isNaN(checker[2])=== true){*/
            alert("Please enter a number in the field");
        }else{
        if((checker[0]+checker[1])<=checker[2] || (checker[1]+checker[2])<=checker[0] || (checker[0]+checker[2])<=checker[1]){
